@@ -1,0 +1,49 @@
+/* styles <h1> tag of Arrivals */
+#heading {
+    background-color: rgb(49, 224, 166); 
+    color:white; 
+    display:inline-block; 
+    width: 350px; 
+    height: 25px; 
+    font-size:1.4em;
+    padding: 8px;
+    border-radius: 1%;
+    margin-bottom: 2px;
+  }
+  
+  /* Styles the loaded contents from flights.json URL*/
+  
+  #allin {
+    display: inline-block;
+    border: 2px solid white;
+  }
+  
+  
+  
+  .users {
+    border: 1px solid rgb(233, 224, 224);
+    padding: 10px;
+    background-color: rgba(248, 248, 248, 0.753);
+    border-radius: 5px;
+    box-shadow: 3px;
+    margin-bottom: 3px;
+  }
+  
+  #destination {
+    font-weight: bold;
+    color: rgb(97, 96, 96);
+    font-family: 'Montserrat', sans-serif;
+  
+  }
+  
+  #time {
+    margin: 10px;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  #status {
+    text-align: right;
+    padding-left: 228px;
+    padding-right: 0px;
+  }
